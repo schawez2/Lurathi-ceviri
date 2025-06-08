@@ -1,0 +1,2 @@
+# Lurathi-ceviri
+Çeviri uygulaması 
